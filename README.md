@@ -16,4 +16,4 @@ Foram abordados diversos tópicos referentes a Inteligência artificial, veja as
 
 ## Agradecimentos
 
-Agradeço aos ensinamentos da intrutora [Valéria Baptista](https://www.linkedin.com/in/valeriabaptista/), dificilmente encontramos temas sobre i.a abordados com tantos exemplos e trazidos para uma linguagem natual, que facilitou o aprendizado!
+Agradeço aos ensinamentos da instrutora [Valéria Baptista](https://www.linkedin.com/in/valeriabaptista/), dificilmente encontramos temas sobre i.a abordados com tantos exemplos e trazidos para uma linguagem natual, que facilitou o aprendizado!
